@@ -28,7 +28,7 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **Example:** A company using its own server for all its digital needs.
 
-## Hybrid Cloud:
+## Hybrid Cloud:  hi
 
 **Who Uses It:** A mix of everyone, depending on needs.
 
